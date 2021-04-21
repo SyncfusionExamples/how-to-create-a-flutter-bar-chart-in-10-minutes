@@ -2,7 +2,7 @@
 
 A quick-start example to help you add the Syncfusion Flutter Charts package to a Flutter app. You will learn how to add a Cartesian chart to a Flutter project. You will then learn how to set a data source to the chart and how to add a bar series to it. You will also see how to customize the primary axis; add a title; and show data labels, legends, and tooltips in the bar chart.
 
-Watch the video: Coming soon...
+Watch the video: https://www.syncfusion.com/tutorial-videos/flutter/charts?title=how-to-create-a-flutter-bar-chart-in-10-minutes
 
 Documentation: https://help.syncfusion.com/flutter/cartesian-charts/chart-types#bar-chart 
 
